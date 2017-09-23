@@ -1,0 +1,16 @@
+PODS:
+  - EBIAXMLDecompressor (0.1.0)
+
+DEPENDENCIES:
+  - EBIAXMLDecompressor (from `..`)
+
+EXTERNAL SOURCES:
+  EBIAXMLDecompressor:
+    :path: ..
+
+SPEC CHECKSUMS:
+  EBIAXMLDecompressor: 88c66a50cd17a17cdda348177fa4269ab96a6dcc
+
+PODFILE CHECKSUM: ef9c86e120ce8d2ece168fc634ddf78a005d94ec
+
+COCOAPODS: 1.3.1
